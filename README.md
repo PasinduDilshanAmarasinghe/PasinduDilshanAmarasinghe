@@ -3,12 +3,10 @@
   
   <p align="center">
      👋 I am <strong>Pasindu Dilshan Amarasinghe</strong>, an ICT Student and Tech Enthusiast from Sri Lanka 🇱🇰.<br>
-     With an <strong>NVQ Level 4 in ICT</strong>, I am passionate about building scalable web applications and actively mastering <strong>Cloud Computing & DevOps</strong> technologies.
+     , I am passionate about building scalable web applications and actively mastering <strong>Cloud Computing & DevOps</strong> technologies.
   </p>
   
-  <p align="center">
-    🌱 I’m currently learning <strong>AWS Cloud Services</strong> and <strong>Linux System Administration</strong> via <strong>KodeKloud</strong>.
-  </p>
+ 
 </div>
 
 <br/>
