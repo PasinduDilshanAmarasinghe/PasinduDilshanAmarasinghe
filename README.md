@@ -44,10 +44,7 @@
 <br/>
 
 <h3 align="left">🎓 Education & Certifications</h3>
-<ul>
-  <li><strong>NVQ Level 4 in Information and Communication Technology (ICT)</strong></li>
-  <li>Currently reading for Higher Diploma / Degree in Software Engineering & Computer Science</li>
-</ul>
+
 
 <br/>
 
