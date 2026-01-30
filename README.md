@@ -346,7 +346,7 @@ teamwork
 ### 💬 "First, solve the problem. Then, write the code." - John Johnson
 
 **📧 Email:** pasindudilshanamarasingha@gmail.com  
- 
+**📍 Location:** Balangoda, Sri Lanka  
 **🎓 Education:** BSc (Hons) Computer Science @ SLIIT
 
 <br/>
