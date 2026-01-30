@@ -15,12 +15,14 @@
 
 ```typescript
 const pasindu = {
-    location: "Colombo, Sri Lanka 🇱🇰",
-    role: "ICT Student & Cloud Enthusiast",
-    passions: ["Cloud Architecture", "DevOps Automation", "Full-Stack Development"],
-    currentFocus: "Mastering AWS & Kubernetes Orchestration",
-    lifePhilosophy: "Code with purpose, deploy with confidence ⚡",
-    funFact: "I automate everything, even my morning coffee routine ☕"
+    location: "Balangoda, Sri Lanka 🇱🇰",
+    education: "BSc (Hons) Computer Science @ SLIIT",
+    role: "Full-Stack Developer & Cloud Engineer",
+    expertise: ["MERN Stack", "Next.js", "Laravel", "AWS", "Docker"],
+    currentFocus: "Building scalable cloud-native applications",
+    philosophy: "Code with purpose, deploy with confidence ⚡",
+    approach: "Combining strong software engineering fundamentals with modern DevOps practices",
+    strengths: ["Problem-Solving", "Team Leadership", "Critical Thinking"]
 };
 ```
 
@@ -35,25 +37,103 @@ const pasindu = {
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud, DevOps & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,nginx" />
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,selenium" />
 </p>
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,c,r,bash" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,php,c,cpp,python,html,css,sql" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Development & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,mongodb,mysql,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,mongodb,mysql,tailwind,bootstrap,selenium" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Development Tools & IDEs
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,postman,git,github,docker,figma" />
 </p>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Ralahami.lk
+**Restaurant Ordering & Operations Platform**
+
+`Next.js` `TypeScript` `Node.js` `MongoDB` `Stripe`
+
+- 🎨 Responsive Next.js + Tailwind CSS frontend
+- ⚡ Real-time order updates via Pusher WebSockets
+- 📦 BOM-based inventory with low-stock alerts
+- 💳 Stripe payment integration + COD
+- 🔐 JWT authentication with RBAC
+- 🚀 CI/CD pipeline implementation
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 ACR-MART
+**Online Retail & Grocery Management**
+
+`PHP` `MySQL` `JavaScript` `HTML/CSS`
+
+- 📋 Complete product catalog system
+- 🛍️ Shopping cart & checkout flow
+- 📊 Inventory management dashboard
+- 👥 Customer & admin panels
+- 🔄 Full CRUD operations
+- 📱 Responsive UI design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 LumoLights
+**E-Commerce Lighting Website**
+
+`HTML` `CSS` `JavaScript` `PHP` `SQL`
+
+- 🏪 Multi-page e-commerce platform
+- 👤 User authentication system
+- 🛍️ Product display & categorization
+- 📄 Dynamic About page with social links
+- 🎨 Custom CSS styling
+- 💾 MySQL database integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+**Continuous Innovation**
+
+- 🔧 Building full-stack MERN applications
+- 🌐 Laravel-based web solutions
+- ☁️ AWS cloud deployments
+- 🐳 Docker containerization
+- 📱 Mobile-responsive designs
+
+[View All Projects →](https://github.com/PasinduDilshanAmarasinghe?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -89,21 +169,28 @@ const pasindu = {
 
 ### 🔭 Working On
 ```yaml
-- Building cloud-native applications
-- AWS Solutions Architecture
-- CI/CD pipeline automation
-- Microservices with Docker & K8s
+- Ralahami.lk Restaurant Platform
+  • Next.js + TypeScript frontend
+  • Node.js/Express + MongoDB backend
+  • Real-time order updates (Pusher)
+  • Stripe payment integration
+  
+- E-commerce Solutions
+  • Full-stack MERN applications
+  • Laravel-based systems
 ```
 
 </td>
 <td width="50%">
 
-### 🌱 Learning
+### 🌱 Learning Journey
 ```yaml
-- Advanced Kubernetes patterns
-- Terraform & Infrastructure as Code
-- AWS certifications prep
-- System design & scalability
+- AWS Solutions Architecture
+- Advanced Docker & Containerization
+- Linux System Administration
+- Prompt Engineering for Gen AI
+- Software Engineering Best Practices
+- Database Design & Optimization
 ```
 
 </td>
@@ -125,10 +212,101 @@ const pasindu = {
 
 <br/><br/>
 
-<!-- Certification Badges - Add your actual certifications here -->
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Professional-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### 📜 Professional Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Cloud & DevOps**
+- ☁️ Learning AWS for Developers
+- 🐳 Docker For Absolute Beginners
+- 🐧 Linux For Absolute Beginners
+- 🔀 Git - Level 1 (KodeKloud)
+
+</td>
+<td align="center" width="50%">
+
+**AI & Development**
+- 🤖 Intro to Prompt Engineering for Gen AI
+- 📊 AWS Basics (Crash Course)
+- ⚡ NVQ Level 4 in Electrical
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+## 🎯 Core Competencies
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**💡 Problem Solving**
+Analytical thinking &
+creative solutions
+
+</td>
+<td align="center" width="33%">
+
+**👥 Team Leadership**
+Collaboration &
+project management
+
+</td>
+<td align="center" width="33%">
+
+**⏱️ Time Management**
+Efficient planning &
+delivery
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**🧠 Critical Thinking**
+Data-driven
+decision making
+
+</td>
+<td align="center" width="33%">
+
+**💪 Work Ethic**
+Dedicated &
+result-oriented
+
+</td>
+<td align="center" width="33%">
+
+**🤝 Interpersonal Skills**
+Clear communication &
+teamwork
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -142,7 +320,7 @@ const pasindu = {
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:pasindudilshanamarasingha@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Gmail"/>
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -165,7 +343,11 @@ const pasindu = {
 
 <br/><br/>
 
-### 💬 "Talk is cheap. Show me the code." - Linus Torvalds
+### 💬 "First, solve the problem. Then, write the code." - John Johnson
+
+**📧 Email:** pasindudilshanamarasingha@gmail.com  
+ 
+**🎓 Education:** BSc (Hons) Computer Science @ SLIIT
 
 <br/>
 
