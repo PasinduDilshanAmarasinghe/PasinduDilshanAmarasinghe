@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Pasindu+Dilshan+Amarasinghe;Cloud+Enthusiast;DevOps+Learner;ICT+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Pasindu+Dilshan+Amarasinghe;Cloud+Enthusiast;DevOps+Learner;ICT+Student" alt="Typing SVG" />
   
   <p align="center">
      👋 I am <strong>Pasindu Dilshan Amarasinghe</strong>, an ICT Student and Tech Enthusiast from Sri Lanka 🇱🇰.<br>
-     , I am passionate about building scalable web applications and actively mastering <strong>Cloud Computing & DevOps</strong> technologies.
+     I am passionate about building scalable web applications and actively mastering <strong>Cloud Computing & DevOps</strong> technologies.
   </p>
-  
- 
 </div>
 
 <br/>
@@ -44,7 +42,6 @@
 <br/>
 
 <h3 align="left">🎓 Education & Certifications</h3>
-
 
 <br/>
 
