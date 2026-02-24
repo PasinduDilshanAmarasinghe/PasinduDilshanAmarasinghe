@@ -4,17 +4,7 @@
 
 ---
 
-## 🚀 About Me
 
-```javascript
-const pasindu = {
-  role: "CS Undergraduate @ SLIIT City Uni (Uni of Bedfordshire, UK)",
-  location: "Piliyandala, Sri Lanka 🇱🇰",
-  currentlyLearning: ["Cloud (AWS)", "Docker", "System Design"],
-  lookingFor: "Opportunities to build cool stuff & grow fast",
-  funFact: "I also hold an NVQ Level 4 in Electrical ⚡"
-};
-```
 
 ---
 
