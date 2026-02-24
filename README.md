@@ -1,13 +1,4 @@
-<div align="center">
 
-```
-██████╗  █████╗ ███████╗██╗███╗   ██╗██████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔════╝██║████╗  ██║██╔══██╗██║   ██║
-██████╔╝███████║███████╗██║██╔██╗ ██║██║  ██║██║   ██║
-██╔═══╝ ██╔══██║╚════██║██║██║╚██╗██║██║  ██║██║   ██║
-██║     ██║  ██║███████║██║██║ ╚████║██████╔╝╚██████╔╝
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
-```
 
 ### 🚀 Computer Science Undergraduate · Full-Stack Developer · Cloud Enthusiast
 
@@ -23,27 +14,6 @@
 
 ---
 
-## 🧠 About Me
-
-```typescript
-const pasindu: Developer = {
-  name:       "Pasindu Dilshan Amarasinghe",
-  location:   "Piliyandala, Sri Lanka 🇱🇰",
-  degree:     "BSc (Hons) Computer Science",
-  university: "SLIIT City Uni × University of Bedfordshire, UK",
-  status:     "Undergraduate (2024 – Present)",
-
-  passions:   ["Full-Stack Dev", "Cloud Architecture", "Clean Code"],
-  currentlyLearning: ["AWS", "Docker", "System Design", "DevOps"],
-
-  askMeAbout: ["MERN Stack", "Next.js", "REST APIs", "MongoDB"],
-  funFact:    "I also hold an NVQ Level 4 in Electrical ⚡ — yes, I know circuits too!",
-
-  openTo:     "Internships · Collaborations · Open Source",
-};
-```
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -95,92 +65,6 @@ const pasindu: Developer = {
 <table>
 <tr>
 <td width="50%">
-
-### 🍽️ Ralahami.lk
-**Restaurant Ordering & Ops Platform**
-
-A full-featured restaurant management system with real-time kitchen updates, inventory control, and seamless payment integration.
-
-**Highlights:**
-- 🔴 Real-time order/KOT updates via **WebSockets (Pusher)**
-- 📦 BOM-based inventory with low-stock alerts & PO/GRN workflows
-- 💳 **Stripe** sandbox + COD payment integration
-- 🔐 JWT (HTTP-only) + **RBAC**, audit logs, CI/CD pipeline
-
-`Next.js` `TypeScript` `Node.js` `MongoDB` `Stripe` `Pusher`
-
-</td>
-<td width="50%">
-
-### ✅ PLANORA
-**Smart To-Do & Task Manager**
-
-A modern, responsive task management app with AI-powered suggestions and drag-and-drop organization.
-
-**Highlights:**
-- 🤖 **AI task suggestions** powered by LLM integration
-- 🗂️ Drag-and-drop task organization
-- 📅 Calendar view for deadline tracking
-- ⚡ Real-time updates with reactive UI
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 ACR-MART
-**Online Retail & Grocery Management System**
-
-Full-stack e-commerce platform built collaboratively with complete product lifecycle management.
-
-**Highlights:**
-- 🛍️ Product listing, cart & checkout flow
-- 🔄 Full **CRUD** operations for products & customers
-- 📱 Responsive UI with CSS/JS
-- 🤝 Team collaboration via **Git/GitHub**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
-### 💡 LumoLights
-**E-Commerce Lighting Website**
-
-Multi-page e-commerce website for a lighting product brand with user authentication.
-
-**Highlights:**
-- 🔑 User registration & login system
-- 🛒 Product display & browse pages
-- 🔗 Social media integration
-- 📐 Clean, structured front-end design
-
-`HTML` `CSS` `JavaScript` `PHP` `SQL`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasinduDilshanAmarasingha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduDilshanAmarasingha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PasinduDilshanAmarasingha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🏅 Certifications
 
