@@ -60,49 +60,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🏅 Certifications
-
-| Badge | Course | Platform |
-|-------|--------|----------|
-| ☁️ | Learning Amazon Web Services (AWS) for Developers | LinkedIn Learning |
-| 🤖 | Introduction to Prompt Engineering for Generative AI | LinkedIn Learning |
-| 🐳 | Docker For Absolute Beginners | KodeKloud |
-| 🐧 | Linux For Absolute Beginners | KodeKloud |
-| ☁️ | AWS Basics Crash Course | KodeKloud |
-| 🔀 | Git - Level 1 | KodeKloud |
-| 🐍 | Python for Beginners | University of Moratuwa |
-| ⚡ | NVQ Level 4 in Electrical | — |
-
----
-
-## 💡 Skills Snapshot
-
-```
-Technical    ████████████████████  Full-Stack Dev (MERN / Next.js)
-             █████████████████░░░  Cloud & DevOps (AWS, Docker, Linux)
-             ███████████████░░░░░  Database Design (MongoDB, MySQL)
-
-Soft Skills  ████████████████████  Problem Solving & Analytical Thinking
-             ██████████████████░░  Teamwork & Leadership
-             █████████████████░░░  Time & Project Management
-```
-
----
-
-## 🌱 Currently Exploring
-
-- 🏗️ **System Design** — scalable, distributed architectures
-- ☁️ **AWS** — going deeper into cloud services & deployments
-- 🐳 **Docker & Containers** — containerizing everything
-- 🔐 **Security** — auth patterns, OWASP, best practices
-
----
 
 <div align="center">
 
